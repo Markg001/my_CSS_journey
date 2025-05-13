@@ -1,0 +1,28 @@
+/* What is CSS?
+
+CSS (Cascading Style Sheets) is used to style and layout HTML content — it controls:
+    Colors
+    Fonts
+    Spacing
+    Page layout
+    Animations & effects
+✅ 3 Ways to Add CSS
+    Inline CSS (inside an element)
+<p style="color: blue;">Hello!</p>
+Internal CSS (inside <style> in the <head>)
+<style>
+  h1 {
+    color: red;
+  }
+</style>
+External CSS (in a separate .css file)
+<link rel="stylesheet" href="styles.css">
+🎨 Common CSS Properties
+Property	What It Does	Example
+color	Text color	color: blue;
+background	Background color	background: yellow;
+font-size	Size of text	font-size: 20px;
+padding	Space inside element	padding: 10px;
+margin	Space outside element	margin: 20px;
+border	Border around an element	border: 2px solid black;*/
+
